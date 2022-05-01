@@ -37,7 +37,7 @@ See [API documentation](https://snyk.docs.apiary.io/#) for details.
 Snyk provides automatic scanning functions with recurring tests, allowing you to catch new vulnerabilities automatically. After you import a project, Snyk automatically runs periodic checks to see if your code is affected by newly disclosed vulnerabilities.
 
 {% hint style="info" %}
-Test frequency is set to daily by default. To change frequency, go to either the **Usage** page (see [Usage page details](https://docs.snyk.io/user-and-group-management/managing-settings/usage-page-details)) or the project **Settings** page (see [View project settings](https://docs.snyk.io/getting-started/introduction-to-snyk-projects/view-project-settings)).
+Test frequency is set to daily by default, for Snyk Open Source, Snyk Container, and Snyk Infrastracture as Code. For Snyk Code, the test frequency is set to weekly by default. To change frequency, go to either the **Usage** page (see [Usage page details](https://docs.snyk.io/user-and-group-management/managing-settings/usage-page-details)) or the project **Settings** page (see [View project settings](https://docs.snyk.io/getting-started/introduction-to-snyk-projects/view-project-settings)).
 {% endhint %}
 
 ### Snyk monitor
